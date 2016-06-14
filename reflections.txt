@@ -7,3 +7,13 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+---
+
+* I understood better how use the tag <article> in a web page.
+
+* It was easy translating/migrate a mockup to HTML.
+
+* Nothing was difficult.
+
+* The solutions of the first projects, helps solve the challenges so far.
